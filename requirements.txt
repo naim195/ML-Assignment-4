@@ -1,0 +1,4 @@
+DuckDuckGoImages
+requests
+bs4
+bing-image-downloader
