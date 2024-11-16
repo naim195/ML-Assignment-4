@@ -2,3 +2,4 @@ DuckDuckGoImages
 requests
 bs4
 bing-image-downloader
+memory_profiler
